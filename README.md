@@ -15,7 +15,7 @@ one household with a one-minute sampling rate over a period of almost
 4 years. Different electrical quantities and some sub-metering values
 are available.
 
-## THe Assignment
+## The Assignment
 The assignment was to recreate 4 exploratory graphs based on the dataset filtered to include only the dates of 2/1/2007 and 2/2/2007.
 
 The 4 graphs are included in this repository as png files as listed below:
